@@ -2,10 +2,7 @@
   "name": "logger",
   "version": "1.0.0",
   "description": "",
-  "main": "logger.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "main": "index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/costmkv/logger.git"
@@ -17,8 +14,6 @@
   },
   "homepage": "https://github.com/costmkv/logger#readme",
   "dependencies": {
-    "chalk": "2.4.2",
-    "underscore": "1.9.1",
-    "until": "0.1.1"
+    "chalk": "2.4.2"
   }
 }
